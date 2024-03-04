@@ -63,7 +63,7 @@ body {
   table-layout: fixed;
   text-decoration: none;
   box-shadow: 3px 3px 15px rgba(18, 18, 18, 1);
-  transition: cubic-bezier(1, 0, 0, 1);
+  transition: all 1s;
 }
 .buttons button:hover {
   background-color: rgba(0, 0, 0, 0.5);
